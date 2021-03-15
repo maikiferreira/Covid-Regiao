@@ -1,0 +1,13 @@
+#dados{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: rgb(55, 55, 241);
+
+}
+
+#default{
+    background: rgb(55, 55, 241);
+    color: black;
+    text-align: center;
+}
